@@ -1,0 +1,20 @@
+
+header{
+  margin-bottom: 70px;
+  text-align: center;
+}
+
+select{
+  font-size: medium;
+  padding: 20px;
+  margin: auto;
+}
+
+main {
+  display: flex;
+  flex-wrap: wrap;
+}
+img {
+  width: 150px;
+}
+
